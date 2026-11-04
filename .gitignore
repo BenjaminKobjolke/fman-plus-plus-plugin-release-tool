@@ -1,0 +1,9 @@
+coding-rules.json
+graphify-out/
+src/graphify-out/
+claude-plans
+.claude/
+PLAN.md
+HANDOFF.md
+/PLAN_*.md
+/tickets/
